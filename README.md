@@ -21,10 +21,10 @@ pip install python-dotenv
 ## Setup ⚙️
 1. Create a `.env` file in the same directory as your script:
 ```env
-EMAIL_USER=your_email@example.com
-EMAIL_PASSWORD=your_email_password
-SMTP_SERVER=smtp.gmail.com
-SMTP_PORT=587
+EMAIL_USER="your_email@example.com"
+EMAIL_PASSWORD="your_email_password"
+SMTP_SERVER="smtp.gmail.com"
+SMTP_PORT="587"
 ```
 2. Make sure to replace the placeholders with your actual email credentials.
 
