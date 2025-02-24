@@ -31,7 +31,7 @@ SMTP_PORT=587
 ## Execution ▶️
 Run the script with administrator privileges (required for `netsh` commands):
 ```bash
-python wifi_extractor.py
+python wifi.py
 ```
 
 The script will display the extracted credentials and send them to your configured email address.
